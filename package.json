@@ -32,13 +32,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sja-thedude/hello-rails-react.git"
+    "url": "git+https://github.com/VSeray/Hello-RailReact.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sja-thedude/hello-rails-react/issues"
+    "url": "https://github.com/VSeray/Hello-RailReact/issues"
   },
-  "homepage": "https://github.com/sja-thedude/hello-rails-react#readme"
+  "homepage": "https://github.com/VSeray/Hello-RailReact/tree/rails-react#readme"
 }
