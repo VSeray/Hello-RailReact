@@ -5,7 +5,6 @@ import { fetchmessage } from '../redux/message/api';
 
 const Greeting = () => {
   const message = useSelector((state) => state.messageReducer.message);
-  // console.log('message => ', message);
 
   const dispatch = useDispatch();
 
